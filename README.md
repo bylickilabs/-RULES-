@@ -122,7 +122,7 @@ Verwende hierfür die privaten Nachrichten.
 |---|
 
 ✅ Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren,
-wenn Regeln verletzt werden
+wenn Regeln mehrfach verletzt werden
 
 <br>
 
