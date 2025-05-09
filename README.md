@@ -56,7 +56,7 @@ Verwende hierfür die privaten Nachrichten.
 
 ### Bei schwerwiegenden Problemen wende dich an dein Moderationsteam
 
-Strafen und Maßnahmen
+> Strafen und Maßnahmen
 Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
 
 • Warnungen
