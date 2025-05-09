@@ -29,42 +29,42 @@ des Urhebers hast.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-4. Beiträge im richtigen Bereich posten
+> 4. Beiträge im richtigen Bereich posten
 Stelle sicher, dass deine Beiträge im richtigen Forumbereich gepostet werden (z.B. Scripts, Mods, Maps).
 
 Vermeide es, Themen in falsche Kategorien zu verschieben oder Doppelposts zu erstellen.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-5. Keine illegalen Inhalte
+> 5. Keine illegalen Inhalte
 Jegliche Inhalte, die gegen gesetzliche Bestimmungen verstoßen (z.B. Raubkopien, Hacks, etc.), sind verboten.
 
 Das Teilen von illegalen Mods oder Scripts führt zur sofortigen Sperrung des Accounts.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-6. Klare und verständliche Kommunikation
+> 6. Klare und verständliche Kommunikation
 Achte darauf, dass deine Beiträge klar, verständlich und in einem freundlichen Ton verfasst sind.
 
 Verwende keine übermäßige Verwendung von Capslock oder Schimpfwörtern.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-7. Diskussionen und Feedback
+> 7. Diskussionen und Feedback
 Konstruktive Kritik ist willkommen, aber vermeide destruktive oder unnötig aggressive Kommentare.
 
 Beteilige dich an Diskussionen, respektiere die Meinungen anderer und versuche, hilfreiche Rückmeldungen zu geben.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-8. Nutzung von Mods und Scripts
+> 8. Nutzung von Mods und Scripts
 Beachte, dass alle Mods und Scripts auf „GTAV Nexus - Scripts, Mods & Maps“ auf eigene Verantwortung verwendet werden.
 
 Wir übernehmen keine Haftung für Fehler oder Schäden, die durch die Verwendung von Mods oder Scripts entstehen.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-9. Spam und Mehrfacheinträge
+> 9. Spam und Mehrfacheinträge
 Vermeide Spam-Nachrichten und das Erstellen mehrerer gleichartiger Beiträge zu demselben Thema.
 
 Das Posten von unnötigen oder wiederholten Nachrichten, um auf deinen Beitrag aufmerksam zu machen,
@@ -72,7 +72,7 @@ ist ebenfalls nicht gestattet.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-10. Verhalten bei Konflikten
+> 10. Verhalten bei Konflikten
 Solltest du Konflikte mit anderen Nutzern haben, versuche diese privat zu klären.
 Verwende hierfür die privaten Nachrichten.
 ```
