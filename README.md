@@ -7,9 +7,9 @@
 <br>
 
 🔗 [GTAV-Nexus](https://gtav-nexus.xobor.de)
-- [x] Warnungen
-- [x] Temporäre Sperrungen
-- [x] Dauerhafte Sperrung des Accounts
+✅Warnungen
+✅Temporäre Sperrungen
+✅Dauerhafte Sperrung des Accounts
 - [x] Löschung von Beiträgen
 
 <br><br>
