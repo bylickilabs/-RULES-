@@ -7,11 +7,13 @@ Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
 Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet und werden bestraft.
 ```
 
-2. Keine Werbung
+
+> 2. Keine Werbung
+```yarn
 Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten,
 Produkten oder Dienstleistungen.
-
 Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt.
+```
 
 3. Einhaltung der Urheberrechte
 Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst, keine Urheberrechte verletzen.
