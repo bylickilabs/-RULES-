@@ -124,4 +124,5 @@ Verwende hierfür die privaten Nachrichten.
 
 |Bei schwerwiegenden Problemen wende dich an dein Moderationsteam|
 |---|
-- [x] Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren, wenn Regeln verletzt werden
+- [x] Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren,
+wenn Regeln verletzt werden
