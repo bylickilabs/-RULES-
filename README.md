@@ -29,7 +29,8 @@ Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet
 
 > 2. Keine Werbung
 ```yarn
-Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten,
+Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion
+von externen Webseiten,
 Produkten oder Dienstleistungen.
 
 Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt.
@@ -39,9 +40,11 @@ Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt
 
 > 3. Einhaltung der Urheberrechte
 ```yarn
-Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst, keine Urheberrechte verletzen.
+Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst,
+keine Urheberrechte verletzen.
 
-Veröffentliche keine Mods oder Inhalte, die du nicht selbst erstellt hast oder für die du keine ausdrückliche Genehmigung
+Veröffentliche keine Mods oder Inhalte, die du nicht selbst erstellt hast oder für die du
+keine ausdrückliche Genehmigung
 des Urhebers hast.
 ```
 
@@ -49,7 +52,8 @@ des Urhebers hast.
 
 > 4. Beiträge im richtigen Bereich posten
 ```yarn
-Stelle sicher, dass deine Beiträge im richtigen Forumbereich gepostet werden (z.B. Scripts, Mods, Maps).
+Stelle sicher, dass deine Beiträge im richtigen Forumbereich gepostet werden
+(z.B. Scripts, Mods, Maps).
 
 Vermeide es, Themen in falsche Kategorien zu verschieben oder Doppelposts zu erstellen.
 ```
@@ -58,7 +62,8 @@ Vermeide es, Themen in falsche Kategorien zu verschieben oder Doppelposts zu ers
 
 > 5. Keine illegalen Inhalte
 ```yarn
-Jegliche Inhalte, die gegen gesetzliche Bestimmungen verstoßen (z.B. Raubkopien, Hacks, etc.), sind verboten.
+Jegliche Inhalte, die gegen gesetzliche Bestimmungen verstoßen
+(z.B. Raubkopien, Hacks, etc.), sind verboten.
 
 Das Teilen von illegalen Mods oder Scripts führt zur sofortigen Sperrung des Accounts.
 ```
@@ -67,7 +72,7 @@ Das Teilen von illegalen Mods oder Scripts führt zur sofortigen Sperrung des Ac
 
 > 6. Klare und verständliche Kommunikation
 ```yarn
-Achte darauf, dass deine Beiträge klar, verständlich und in einem freundlichen Ton verfasst sind.
+Achte darauf, dass deine Beiträge klar, verständlich und in einem freundlichen Tonverfasst sind.
 
 Verwende keine übermäßige Verwendung von Capslock oder Schimpfwörtern.
 ```
@@ -78,7 +83,8 @@ Verwende keine übermäßige Verwendung von Capslock oder Schimpfwörtern.
 ```yarn
 Konstruktive Kritik ist willkommen, aber vermeide destruktive oder unnötig aggressive Kommentare.
 
-Beteilige dich an Diskussionen, respektiere die Meinungen anderer und versuche, hilfreiche Rückmeldungen zu geben.
+Beteilige dich an Diskussionen, respektiere die Meinungen anderer und versuche,
+hilfreiche Rückmeldungen zu geben.
 ```
 
 <br>
