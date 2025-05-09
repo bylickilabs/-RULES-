@@ -8,6 +8,8 @@ Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet
 ```
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
+![stripe](https://github.com/user-attachments/assets/f9978528-ea47-4138-8beb-22f1665862c3)
+
 
 > 2. Keine Werbung
 ```yarn
