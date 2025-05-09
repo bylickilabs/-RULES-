@@ -29,7 +29,8 @@ Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet
 
 > 2. Keine Werbung
 ```yarn
-Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten,
+Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion
+von externen Webseiten,
 
 Produkten oder Dienstleistungen.
 
