@@ -112,12 +112,12 @@ Verwende hierfür die privaten Nachrichten.
 
 |Bei schwerwiegenden Problemen wende dich an dein Moderationsteam|
 |---|
-- [x] Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren,
+✅ Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren,
 wenn Regeln verletzt werden
 
 <br>
 
-- [x] Wir danken dir für deine Kooperation und wünschen dir viel Spaß und eine produktive Zeit im Forum!
+✅ Wir danken dir für deine Kooperation und wünschen dir viel Spaß und eine produktive Zeit im Forum!
 Das GTAV-Nexus-Team
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
