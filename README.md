@@ -7,14 +7,16 @@ Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
 Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet und werden bestraft.
 
 2. Keine Werbung
-Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten, Produkten oder Dienstleistungen.
+Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten,
+Produkten oder Dienstleistungen.
 
 Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt.
 
 3. Einhaltung der Urheberrechte
 Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst, keine Urheberrechte verletzen.
 
-Veröffentliche keine Mods oder Inhalte, die du nicht selbst erstellt hast oder für die du keine ausdrückliche Genehmigung des Urhebers hast.
+Veröffentliche keine Mods oder Inhalte, die du nicht selbst erstellt hast oder für die du keine ausdrückliche Genehmigung
+des Urhebers hast.
 
 4. Beiträge im richtigen Bereich posten
 Stelle sicher, dass deine Beiträge im richtigen Forumbereich gepostet werden (z.B. Scripts, Mods, Maps).
@@ -44,10 +46,12 @@ Wir übernehmen keine Haftung für Fehler oder Schäden, die durch die Verwendun
 9. Spam und Mehrfacheinträge
 Vermeide Spam-Nachrichten und das Erstellen mehrerer gleichartiger Beiträge zu demselben Thema.
 
-Das Posten von unnötigen oder wiederholten Nachrichten, um auf deinen Beitrag aufmerksam zu machen, ist ebenfalls nicht gestattet.
+Das Posten von unnötigen oder wiederholten Nachrichten, um auf deinen Beitrag aufmerksam zu machen,
+ist ebenfalls nicht gestattet.
 
 10. Verhalten bei Konflikten
-Solltest du Konflikte mit anderen Nutzern haben, versuche diese privat zu klären. Verwende hierfür die privaten Nachrichten.
+Solltest du Konflikte mit anderen Nutzern haben, versuche diese privat zu klären.
+Verwende hierfür die privaten Nachrichten.
 ````
 
 ### Bei schwerwiegenden Problemen wende dich an dein Moderationsteam
@@ -63,5 +67,6 @@ Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
 
 • Löschung von Beiträgen
 
-|Die Moderatoren und Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren, wenn diese Regeln verletzt werden|
+|Die Moderatoren und Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung 
+zu sperren, wenn diese Regeln verletzt werden|
 |---|
