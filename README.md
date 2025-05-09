@@ -1,10 +1,11 @@
 ### GTAV Nexus - Regelwerk
 
-```yarn
-1. Respektvoller Umgang
-Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
 
+> 1. Respektvoller Umgang
+```yarn
+Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
 Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet und werden bestraft.
+```
 
 2. Keine Werbung
 Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten,
@@ -52,7 +53,7 @@ ist ebenfalls nicht gestattet.
 10. Verhalten bei Konflikten
 Solltest du Konflikte mit anderen Nutzern haben, versuche diese privat zu klären.
 Verwende hierfür die privaten Nachrichten.
-````
+```
 
 ### Bei schwerwiegenden Problemen wende dich an dein Moderationsteam
 
