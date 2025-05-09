@@ -61,8 +61,11 @@ Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
 
 
 > • Warnungen
+
 > • Temporäre Sperrungen
+
 > • Dauerhafte Sperrung des Accounts
+
 > • Löschung von Beiträgen
 
 |Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren, wenn Regeln verletzt werden|
