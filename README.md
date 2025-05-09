@@ -1,6 +1,5 @@
 ### GTAV Nexus - Regelwerk
 
-
 > 1. Respektvoller Umgang
 ```yarn
 Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
@@ -8,6 +7,7 @@ Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
 Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet und werden bestraft.
 ```
 
+<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
 > 2. Keine Werbung
 ```yarn
@@ -16,6 +16,8 @@ Produkten oder Dienstleistungen.
 
 Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt.
 ```
+
+<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
 > 3. Einhaltung der Urheberrechte
 Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst, keine Urheberrechte verletzen.
