@@ -125,6 +125,7 @@ wenn Regeln verletzt werden
 <br>
 
 ✅ Wir danken dir für deine Kooperation und wünschen dir viel Spaß und eine produktive Zeit im Forum!
-Das GTAV-Nexus-Team
+
+> Das GTAV-Nexus-Team
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
