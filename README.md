@@ -9,8 +9,11 @@
 🔗 [GTAV-Nexus](https://gtav-nexus.xobor.de)
 
 ✅ Warnungen
+
 ✅ Temporäre Sperrungen
+
 ✅ Dauerhafte Sperrung des Accounts
+
 ✅ Löschung von Beiträgen
 
 <br><br>
