@@ -4,6 +4,7 @@
 > 1. Respektvoller Umgang
 ```yarn
 Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
+
 Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet und werden bestraft.
 ```
 
@@ -12,10 +13,11 @@ Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet
 ```yarn
 Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten,
 Produkten oder Dienstleistungen.
+
 Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt.
 ```
 
-3. Einhaltung der Urheberrechte
+> 3. Einhaltung der Urheberrechte
 Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst, keine Urheberrechte verletzen.
 
 Veröffentliche keine Mods oder Inhalte, die du nicht selbst erstellt hast oder für die du keine ausdrückliche Genehmigung
