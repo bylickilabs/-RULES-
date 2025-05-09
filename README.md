@@ -67,8 +67,9 @@ Beteilige dich an Diskussionen, respektiere die Meinungen anderer und versuche, 
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-```
+
 > 8. Nutzung von Mods und Scripts
+```yarn
 Beachte, dass alle Mods und Scripts auf „GTAV Nexus - Scripts, Mods & Maps“ auf eigene Verantwortung verwendet werden.
 
 Wir übernehmen keine Haftung für Fehler oder Schäden, die durch die Verwendung von Mods oder Scripts entstehen.
