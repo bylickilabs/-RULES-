@@ -19,8 +19,6 @@ Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
 Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet und werden bestraft.
 ```
 
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
-
 <br>
 
 > 2. Keine Werbung
@@ -30,8 +28,6 @@ Produkten oder Dienstleistungen.
 
 Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt.
 ```
-
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
 <br>
 
@@ -43,8 +39,6 @@ Veröffentliche keine Mods oder Inhalte, die du nicht selbst erstellt hast oder 
 des Urhebers hast.
 ```
 
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
-
 <br>
 
 > 4. Beiträge im richtigen Bereich posten
@@ -53,8 +47,6 @@ Stelle sicher, dass deine Beiträge im richtigen Forumbereich gepostet werden (z
 
 Vermeide es, Themen in falsche Kategorien zu verschieben oder Doppelposts zu erstellen.
 ```
-
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
 <br>
 
@@ -65,8 +57,6 @@ Jegliche Inhalte, die gegen gesetzliche Bestimmungen verstoßen (z.B. Raubkopien
 Das Teilen von illegalen Mods oder Scripts führt zur sofortigen Sperrung des Accounts.
 ```
 
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
-
 <br>
 
 > 6. Klare und verständliche Kommunikation
@@ -75,8 +65,6 @@ Achte darauf, dass deine Beiträge klar, verständlich und in einem freundlichen
 
 Verwende keine übermäßige Verwendung von Capslock oder Schimpfwörtern.
 ```
-
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
 <br>
 
@@ -87,8 +75,6 @@ Konstruktive Kritik ist willkommen, aber vermeide destruktive oder unnötig aggr
 Beteilige dich an Diskussionen, respektiere die Meinungen anderer und versuche, hilfreiche Rückmeldungen zu geben.
 ```
 
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
-
 <br>
 
 > 8. Nutzung von Mods und Scripts
@@ -97,8 +83,6 @@ Beachte, dass alle Mods und Scripts auf „GTAV Nexus - Scripts, Mods & Maps“ 
 
 Wir übernehmen keine Haftung für Fehler oder Schäden, die durch die Verwendung von Mods oder Scripts entstehen.
 ```
-
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
 <br>
 
@@ -109,8 +93,6 @@ Vermeide Spam-Nachrichten und das Erstellen mehrerer gleichartiger Beiträge zu 
 Das Posten von unnötigen oder wiederholten Nachrichten, um auf deinen Beitrag aufmerksam zu machen,
 ist ebenfalls nicht gestattet.
 ```
-
-<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
 <br>
 
@@ -126,3 +108,10 @@ Verwende hierfür die privaten Nachrichten.
 |---|
 - [x] Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren,
 wenn Regeln verletzt werden
+
+<br>
+
+- [x] Wir danken dir für deine Kooperation und wünschen dir viel Spaß und eine produktive Zeit im Forum!
+Das [Forenname]-Team
+
+<center><br><img src="img/stripe.gif" alt="Stripe"></center>	
