@@ -3,7 +3,9 @@
 
 - [x] Strafen und Maßnahmen
 > Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
+
 <br>
+
 🔗 [GTAV-Nexus](https://https://gtav-nexus.xobor.de)
 - [x] > Warnungen
 - [x] > Temporäre Sperrungen
