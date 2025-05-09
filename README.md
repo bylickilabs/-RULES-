@@ -1,4 +1,5 @@
 ### GTAV Nexus - Regelwerk
+<br>
 
 - [x] Strafen und Maßnahmen
 > Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
