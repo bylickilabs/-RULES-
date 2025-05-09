@@ -31,6 +31,7 @@ Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet
 ```yarn
 Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion
 von externen Webseiten,
+
 Produkten oder Dienstleistungen.
 
 Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt.
@@ -44,8 +45,7 @@ Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder tei
 keine Urheberrechte verletzen.
 
 Veröffentliche keine Mods oder Inhalte, die du nicht selbst erstellt hast oder für die du
-keine ausdrückliche Genehmigung
-des Urhebers hast.
+keine ausdrückliche Genehmigung des Urhebers hast.
 ```
 
 <br>
