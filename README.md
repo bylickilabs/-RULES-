@@ -108,7 +108,7 @@ Solltest du Konflikte mit anderen Nutzern haben, versuche diese privat zu kläre
 Verwende hierfür die privaten Nachrichten.
 ```
 
-<br>
+<br><br>
 
 |Bei schwerwiegenden Problemen wende dich an dein Moderationsteam|
 |---|
