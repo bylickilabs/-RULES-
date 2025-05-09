@@ -20,6 +20,7 @@ Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
+
 > 3. Einhaltung der Urheberrechte
 Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst, keine Urheberrechte verletzen.
 
