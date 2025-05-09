@@ -3,11 +3,11 @@
 - [x] Strafen und Maßnahmen
 > Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
 
-- [-] [GTAV-Nexus](https://https://gtav-nexus.xobor.de)
-- [x] > Warnungen
-- [x] > Temporäre Sperrungen
-- [x] > Dauerhafte Sperrung des Accounts
-- [x] > Löschung von Beiträgen
+- [] [GTAV-Nexus](https://https://gtav-nexus.xobor.de)
+- [✅] > Warnungen
+- [✅] > Temporäre Sperrungen
+- [✅] > Dauerhafte Sperrung des Accounts
+- [✅] > Löschung von Beiträgen
 
 <br><br>
 > 1. Respektvoller Umgang
@@ -103,8 +103,8 @@ Solltest du Konflikte mit anderen Nutzern haben, versuche diese privat zu kläre
 Verwende hierfür die privaten Nachrichten.
 ```
 
-<br>
+<br><br><br>
 
 |Bei schwerwiegenden Problemen wende dich an dein Moderationsteam|
 |---|
-- [x] Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren, wenn Regeln verletzt werden
+- [✅] Die Administratoren behalten sich das Recht vor, Beiträge zu bearbeiten, zu löschen oder Accounts ohne Vorwarnung zu sperren, wenn Regeln verletzt werden
