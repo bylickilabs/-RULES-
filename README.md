@@ -91,9 +91,11 @@ hilfreiche Rückmeldungen zu geben.
 
 > 8. Nutzung von Mods und Scripts
 ```yarn
-Beachte, dass alle Mods und Scripts auf „GTAV Nexus - Scripts, Mods & Maps“ auf eigene Verantwortung verwendet werden.
+Beachte, dass alle Mods und Scripts auf „GTAV Nexus - Scripts, Mods & Maps“
+auf eigene Verantwortung verwendet werden.
 
-Wir übernehmen keine Haftung für Fehler oder Schäden, die durch die Verwendung von Mods oder Scripts entstehen.
+Wir übernehmen keine Haftung für Fehler oder Schäden, die durch die Verwendung
+von Mods oder Scripts entstehen.
 ```
 
 <br>
