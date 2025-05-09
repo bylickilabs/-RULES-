@@ -98,7 +98,7 @@ Verwende hierfür die privaten Nachrichten.
 - [x] Strafen und Maßnahmen
 > Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
 
-- [ ] https://https://gtav-nexus.xobor.de
+- [ ] [LINK[(https://https://gtav-nexus.xobor.de)
 - [ ] > • Warnungen
 - [ ] > • Temporäre Sperrungen
 - [ ] > • Dauerhafte Sperrung des Accounts
