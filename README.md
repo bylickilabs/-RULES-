@@ -19,7 +19,7 @@ Beleidigungen, Diskriminierungen oder persönliche Angriffe sind nicht gestattet
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-
+<br><br>
 > 2. Keine Werbung
 ```yarn
 Das Forum ist nicht der richtige Ort für kommerzielle Werbung, Spam oder unaufgeforderte Promotion von externen Webseiten,
@@ -30,7 +30,7 @@ Jegliche Art von Werbung (außer in dafür vorgesehenen Bereichen) ist untersagt
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-
+<br><br>
 > 3. Einhaltung der Urheberrechte
 ```yarn
 Achte darauf, dass alle Scripts, Mods und Maps, die du veröffentlichst oder teilst, keine Urheberrechte verletzen.
@@ -41,6 +41,7 @@ des Urhebers hast.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
+<br><br>
 > 4. Beiträge im richtigen Bereich posten
 ```yarn
 Stelle sicher, dass deine Beiträge im richtigen Forumbereich gepostet werden (z.B. Scripts, Mods, Maps).
@@ -50,6 +51,7 @@ Vermeide es, Themen in falsche Kategorien zu verschieben oder Doppelposts zu ers
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
+<br><br>
 > 5. Keine illegalen Inhalte
 ```yarn
 Jegliche Inhalte, die gegen gesetzliche Bestimmungen verstoßen (z.B. Raubkopien, Hacks, etc.), sind verboten.
@@ -59,6 +61,7 @@ Das Teilen von illegalen Mods oder Scripts führt zur sofortigen Sperrung des Ac
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
+<br><br>
 > 6. Klare und verständliche Kommunikation
 ```yarn
 Achte darauf, dass deine Beiträge klar, verständlich und in einem freundlichen Ton verfasst sind.
@@ -68,6 +71,7 @@ Verwende keine übermäßige Verwendung von Capslock oder Schimpfwörtern.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
+<br><br>
 > 7. Diskussionen und Feedback
 ```yarn
 Konstruktive Kritik ist willkommen, aber vermeide destruktive oder unnötig aggressive Kommentare.
@@ -77,7 +81,7 @@ Beteilige dich an Diskussionen, respektiere die Meinungen anderer und versuche, 
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
-
+<br><br>
 > 8. Nutzung von Mods und Scripts
 ```yarn
 Beachte, dass alle Mods und Scripts auf „GTAV Nexus - Scripts, Mods & Maps“ auf eigene Verantwortung verwendet werden.
@@ -87,6 +91,7 @@ Wir übernehmen keine Haftung für Fehler oder Schäden, die durch die Verwendun
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
+<br><br>
 > 9. Spam und Mehrfacheinträge
 ```yarn
 Vermeide Spam-Nachrichten und das Erstellen mehrerer gleichartiger Beiträge zu demselben Thema.
@@ -97,13 +102,14 @@ ist ebenfalls nicht gestattet.
 
 <center><br><img src="img/stripe.gif" alt="Stripe"></center>	
 
+<br><br>
 > 10. Verhalten bei Konflikten
 ```yarn
 Solltest du Konflikte mit anderen Nutzern haben, versuche diese privat zu klären.
 Verwende hierfür die privaten Nachrichten.
 ```
 
-<br><br><br>
+<br><br>
 
 |Bei schwerwiegenden Problemen wende dich an dein Moderationsteam|
 |---|
