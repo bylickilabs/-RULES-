@@ -1,5 +1,15 @@
 ### GTAV Nexus - Regelwerk
 
+- [x] Strafen und Maßnahmen
+> Verstöße gegen diese Forenregeln können zur folgenden Konsequenzen führen:
+
+- [-] [GTAV-Nexus](https://https://gtav-nexus.xobor.de)
+- [x] > • Warnungen
+- [x] > • Temporäre Sperrungen
+- [x] > • Dauerhafte Sperrung des Accounts
+- [x] > • Löschung von Beiträgen
+
+<br><br>
 > 1. Respektvoller Umgang
 ```yarn
 Behandle alle Mitglieder des Forums mit Respekt und Höflichkeit.
